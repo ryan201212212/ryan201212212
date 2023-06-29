@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=f0f8ff&height=250&section=header&text=Welcome&desc=Raeyoung's%20Github&descSize=30&fontAlignY=35&descAlignY=55&fontSize=80&animation=twinkling&fontColor=006400) 
+  
+  ## :kr: Who Am I :kr:
 
-<!--
-**ryan201212212/ryan201212212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+* 😄 Hi I'm Raeyoung Chang
+* 💻 I graduated in Konkuk University, Management of Technology and Real Estate
+* 🌱 I'm currently learning Data Analysis, CV, MultiModal
+* 📫 How to reach me: raeyoungj@gmail.com
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  ## ⚒️ Tech Stack ⚒️
+
+  <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  
+
+</div>
