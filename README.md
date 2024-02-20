@@ -6,7 +6,7 @@
 
 </div>
 
-* 😄 Hi I'm Raeyoung Chang
+* 😄 Hi I'm Raeyoung Chang
 * ⚒️ I want to be a AI engineering or Data scientist
 * 💻 MS : Sogang University (Major : Computer Science_data engineering lab), BS : Konkuk University (Major : Management of Technology and Real Estate)
 * 💻 I worked for Hyundai Departmet Store Group, HQ Marketing Team(CRM)
