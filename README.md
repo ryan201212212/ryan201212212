@@ -7,9 +7,10 @@
 </div>
 
 * 😄 Hi I'm Raeyoung Chang
-* 💻 I graduated in Konkuk University, Management of Technology and Real Estate
+* ⚒️ I want to be a AI engineering or Data scientist
+* 💻 MS : Sogang University (Major : Computer Science_data engineering lab), BS : Konkuk University (Major : Management of Technology and Real Estate)
 * 💻 I worked for Hyundai Departmet Store Group, HQ Marketing Team(CRM)
-* 🌱 I'm currently learning ROS, Data Analysis, CV, MultiModal
+* 🌱 I'm currently learning development of Social Media Data Mining Techinques and Development of Big Data Clustering Techniques
 * 📫 How to reach me: raeyoungj@gmail.com
 <br>
 
