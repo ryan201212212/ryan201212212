@@ -10,7 +10,7 @@
 * ⚒️ Deep Learning, Recommendation System, Data Analysis, Graph Neural Network
 * 💻 MS : Sogang University (Major : Computer Science & engineering), BS : Konkuk University (Major : Management of Technology and Real Estate)
 * 💻 I worked for Hyundai Departmet Store Group, HQ Marketing Team(CRM) & Bosch Korea, Global sales team
-* 🌱 I'm currently learning development of Social Media Data Mining Techinques and Development of Big Data Clustering Techniques
+* 🌱 I'm currently learning development of Social Media Data Mining Techinques and Big Data Clustering Techniques
 * 📫 How to reach me: raeyoungj@gmail.com
 <br>
 
