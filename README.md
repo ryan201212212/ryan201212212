@@ -14,6 +14,11 @@
 * 📫 How to reach out to me: raeyoungj@gmail.com
 <br>
 
+</div>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=icanry)](https://solved.ac/icanry)
+
+
 <div align="center">
 
   ## ⚒️ Tech Stack ⚒️
@@ -21,16 +26,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB? style=flat&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  
 
 </div>
-
-  ## ⚒️ Tier ⚒️
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=icanry)](https://solved.ac/icanry)
-
-
-
-<div align="center">
 
   ## 💻 PAPER 💻
   * 2024 한국인공지능학회 하계학술대회 Korean Artificial Intelligence Association
