@@ -26,3 +26,10 @@
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=icanry)](https://solved.ac/icanry)
+
+
+
+</div>
+
+  ## ⚒️ PAPER ⚒️
+  * 2024 한국인공지능학회 하계학술대회 Korean Artificial Intelligence Association
