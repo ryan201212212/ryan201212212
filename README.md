@@ -16,6 +16,7 @@
 
 </div>
 
+## Tier ##
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=icanry)](https://solved.ac/icanry)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan201212212&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan201212212&layout=compact&theme=dark)
