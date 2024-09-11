@@ -32,3 +32,8 @@
 </div>
 
   ## 💻 PAPER 💻
+
+</div>
+
+  ## 🌱 Hackathon 🌱
+* DIVE 2024 DX Challenge Hackathon Finalist (2024.09.11) 
