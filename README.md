@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&color=f0f8ff&height=250&section=header&text=Welcome&desc=Raeyoung's%20Github&descSize=30&fontAlignY=35&descAlignY=55&fontSize=80&animation=twinkling&fontColor=006400) 
   
-  ## :kr: Who Am I :kr:
+  ## Who Am I 
 
 </div>
 
@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/TensorFlow-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
-</div>
+<div align="center">
 
   ## 💻 PAPER 💻
 
-</div>
+<div align="center">
 
   ## 🌱 Hackathon 🌱
 * DIVE 2024 DX Challenge Hackathon Finalist (2024.09.11) 
