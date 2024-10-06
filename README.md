@@ -36,4 +36,6 @@
 <div align="center">
 
   ## 🌱 Hackathon 🌱
-* DIVE 2024 DX Challenge Hackathon Finalist (2024.09.11) 
+* DIVE 2024 DX Challenge Hackathon Finalist (2024.10.04~08)
+  - Data preprocessing, Visualization
+  - Used dataset : Samsung Card, Lotte Members, Nice 신용정보 
