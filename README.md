@@ -8,9 +8,14 @@
 
 * 😄 Hi I'm Raeyoung Chang
 * ⚒️ Deep Learning, Recommender System, Data Analysis, Graph Neural Network
-* 💻 MS : Sogang University (Major : Computer Science & engineering [BK21 full scholarship), BS : Konkuk University (Major : Management of Technology and Real Estate)
-* 💻 I worked for Hyundai Departmet Store Group, HQ Marketing Team(CRM) & Bosch Korea, Global sales team
-* 🌱 I'm currently learning development of Social Media Data Mining Techinques and Big Data Clustering Techniques
+* 🌱 Education
+     - MS : University of Toronto ( Major : Artificial Intelligence, Selected by the Ministry of Science and ICT, Republic of Korea, for an AI research dispatch program, 2025.01~2025.07)
+     - MS : Sogang University (Major : Computer Science & engineering [BK21 full scholarship, 2024.2 ~ Now)
+     - BS : Konkuk University (Major : Management of Technology and Real Estate, 2012.03~2019.02)
+* 💻 Work
+     - POSCO AI BIG DATA Program trainee ( 2023.04 ~ 2023.07 _ 3months )
+     - Hyundai Departmet Store Group HQ Marketing Team_CRM (2019 ~ 2022 _ 37months)
+     - Bosch Korea Global sales team (2019.07~2019.12 _ 6months)
 * 📫 How to reach out to me: raeyoungj@gmail.com
 <br>
 
