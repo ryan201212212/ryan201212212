@@ -7,9 +7,9 @@
 </div>
 
 * 😄 Hi I'm Raeyoung Chang
-* ⚒️ Deep Learning, Recommender System, Data Analysis, Graph Neural Network
+* ⚒️ NLP, VLM, Recommender System, Graph Neural Network
 * 🌱 Education
-     - MS : University of Toronto ( Major : Artificial Intelligence, Selected by the Ministry of Science and ICT, Republic of Korea, for an AI research dispatch program, 2025.01~2025.07)
+     - MS : University of Toronto (Major : Artificial Intelligence, Selected by the Ministry of Science and ICT, Republic of Korea, for an AI research dispatch program, 2025.01~2025.07)
      - MS : Sogang University (Major : Computer Science & engineering [BK21 full scholarship, 2024.2 ~ Now)
      - BS : Konkuk University (Major : Management of Technology and Real Estate, 2012.03~2019.02)
 * 💻 Work
