@@ -41,6 +41,9 @@
 <div align="center">
 
   ## 🌱 Hackathon 🌱
-* DIVE 2024 DX Challenge Hackathon Finalist (2024.10.04~08)
+* [Finalist] 2024-2 Sogang Convergence Technology Competition
+  - AI Multimodal Idea (Text-to-Image using self-instruct with data augmentation)
+
+* [Finalist] DIVE 2024 DX Challenge Hackathon (2024.10.04~08)
   - Data preprocessing, Visualization
   - Used dataset : Samsung Card, Lotte Members, Nice 신용정보 
