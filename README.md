@@ -10,7 +10,7 @@
 * ⚒️ NLP, VLM, Recommender System, Graph Neural Network
 * 🌱 Education
      - MS : University of Toronto (Major : Artificial Intelligence, Selected by the Ministry of Science and ICT, Republic of Korea, for an AI research dispatch program, 2025.01~2025.07)
-     - MS : Sogang University (Major : Computer Science & engineering [BK21 full scholarship, 2024.2 ~ Now)
+     - MS : Sogang University (Major : Computer Science & engineering [BK21] full-ride scholarship, 2024.2 ~ Now)
      - BS : Konkuk University (Major : Management of Technology and Real Estate, 2012.03~2019.02)
 * 💻 Work
      - POSCO AI BIG DATA Program trainee ( 2023.04 ~ 2023.07 _ 3months )
@@ -38,12 +38,12 @@
 
   ## 💻 PAPER 💻
 
-<div align="center">
+</div>
 
   ## 🌱 Hackathon 🌱
 * [Finalist] 2024-2 Sogang Convergence Technology Competition
-  - AI Multimodal Idea (Text-to-Image using self-instruct with data augmentation)
+ AI Multimodal Idea (Text-to-Image using self-instruct with data augmentation)
 
 * [Finalist] DIVE 2024 DX Challenge Hackathon (2024.10.04~08)
-  - Data preprocessing, Visualization
-  - Used dataset : Samsung Card, Lotte Members, Nice 신용정보 
+Data preprocessing, Visualization
+Used dataset : Samsung Card, Lotte Members, Nice 신용정보 
