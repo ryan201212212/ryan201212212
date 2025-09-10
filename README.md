@@ -37,6 +37,9 @@
 <div align="center">
 
   ## 💻 PAPER 💻
+       - Under Review : Evaluation Frameworks for Agentic AI (with LG Toronto AI LAB)
+       - Ongoing Paper : Anomaly Detection Project ( Goal : 2026 ICLR Workshop )
+
 
 </div>
 
