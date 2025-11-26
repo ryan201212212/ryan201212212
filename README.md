@@ -7,7 +7,7 @@
 </div>
 
 * 😄 Hi I'm Raeyoung Chang
-* ⚒️ NLP, VLM, Recommender System, Graph Neural Network
+* ⚒️ Agentic AI, LLM, VLM
 * 🌱 Education
      - MS : University of Toronto (Major : Artificial Intelligence, Selected by the Ministry of Science and ICT, Republic of Korea, for an AI research dispatch program, 2025.01~2025.07)
      - MS : Sogang University (Major : Computer Science & engineering [BK21] full-ride scholarship, 2024.2 ~ Now)
