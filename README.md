@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Raeyoung Chang <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/e9b8b093-b9d6-4c26-bccd-7b73004444c9" />
+# 👋 Hello, I'm Raeyoung Chang
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25B31EFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Deep+Learning+Researcher;Specializing+in+Agentic+AI+Systems;Anomaly+Detection+%26+Time-Series+Analysis)](https://git.io/typing-svg)
