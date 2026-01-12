@@ -30,8 +30,7 @@ class Raeyoung Chang:
 - 🎓 **Background:** M.S. in Computer Science (GPA: 4.33/4.5) with research experience at UofT
 - 📝 **Publications:** EMNLP 2025, and more
 - 💻 **Work:** POSCO AI BIG DATA Program trainee ( 2023.04 ~ 2023.07 _ 3months ), Hyundai Departmet Store Group HQ Marketing Team_CRM (2019 ~ 2022 _ 37months), Bosch Korea Global sales team (2019.07~2019.12 _ 6months)
-- 🏆 **Hackathon:** [Finalist] DIVE 2024 DX Challenge Hackathon (2024.10.04~08), [Finalist] 2024-2 Sogang Convergence Technology Competition (2024.11.01~12.05)
-
+- 🏆 **Hackathon:** [Finalist] DIVE 2024 DX Challenge Hackathon (2024.10.04~08)
 ---
 
 ## ⚒️ Tech Stack 
