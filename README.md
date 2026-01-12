@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=25B31EFF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer+%7C+Deep+Learning+Researcher;Specializing+in+Agentic+AI+Systems;Anomaly+Detection+%26+Time-Series+Analysis)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Website-ryan201212212.github.io-25B35EFF?style=for-the-badge&logo=github&logoColor=white)](https://raeyoung.github.io)
+[![Website](https://img.shields.io/badge/Website-ryan201212212.github.io-25B35EFF?style=for-the-badge&logo=github&logoColor=white)](https://ryan201212212.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-happyryanchang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happyryanchang/)
 [![Email](https://img.shields.io/badge/Email-raeyoungj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeyoungj@gmail.com)
 
