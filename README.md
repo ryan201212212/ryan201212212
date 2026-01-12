@@ -67,6 +67,6 @@ class Raeyoung Chang:
 |---------|-------------|------|
 | **🤖 Agentic AI Evaluation Framework** | Developed evaluation framework for agentic AI systems using LLMs *(LG Electronics Canada)* | LLMs, Multi-Agent Systems |
 | **🔐 Anomaly Detection** | Anomaly Detection for Security Camera Footage *(Lorex Technology Inc)* | Computer Vision, Anomaly detection |
-| **🚀 GEMMAS** | Graph-based Evaluation Metrics for Multi Agent Systems *(EMNLP 2025 Oral)* | Graph Networks, NLP |
+| **🚀 GEMMAS** | Graph-based Evaluation Metrics for Multi Agent Systems *(EMNLP 2025 Oral)* | Multi-Agent Systems, Graph Networks|
 
 ---
