@@ -7,6 +7,7 @@
 
 [![Website](https://img.shields.io/badge/Website-ryan201212212.github.io-25B35EFF?style=for-the-badge&logo=github&logoColor=white)](https://ryan201212212.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-happyryanchang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happyryanchang/)
+[![Google Scholar](https://img.shields.io/badge/Email-raeyoungj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[raeyoungj@gmail.com](https://scholar.google.com/citations?user=OS612vEAAAAJ&hl=ko))
 [![Email](https://img.shields.io/badge/Email-raeyoungj@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeyoungj@gmail.com)
 
 </div>
